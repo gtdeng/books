@@ -1,0 +1,44 @@
+
+###BOOKS: 
+- These are the next programming books I will read based on surveys and notoriety to grow as a software engineer.
+
+  #FOR INTERVIEWING
+  Design Patterns    by Gang of Four
+    - For OOP. Design Patterns is a modern classic in the literature of object-oriented development, offering timeless and elegant solutions to common problems in software design
+  The Algorithm Design Manual    by Steven Skiena
+    - Friendly book to review algorithms and data structures
+
+
+  #FOR WRITING BETTER CODE
+  The Pragmatic Programmer     by Andrew Hunt
+    - It examine the core process--taking a requirement and producing working, maintainable code that delights its users. It covers topics ranging from personal responsibility and career development to architectural techniques for keeping your code flexible and easy to adapt and reuse. 
+  Structure and Interpretation of Computer Programs     by Harold Abelson
+    - It teaches readers how to program by employing the tools of abstraction and modularity. The authors' central philosophy is that programming is the task of breaking large problems into small ones. The book spends a great deal of time considering both this decomposition and the process of knitting the smaller pieces back together.
+  Code Complete    by Steve McConnell
+    - Considered one of the best practical guides to programming. It has been helping developers write better software for decades.
+
+
+  #FOR UNDERSTANDING USER CENTRIC DESIGN
+  Don't Make Me Think: A Common Sense Approach to Web Usability    by Steve Krug
+    - Helps developers understand the principles of intuitive navigation and information design
+  The Design of Everyday Things    by Donald Norman
+    - Intro to user/human-centered design
+
+
+  #FOR DEALING WITH EXISTING CODE BASE
+  Refactoring: Improving the Design of Existing Code     by Martin Fowler
+    - Helps developers write efficient, optimal code 
+  Working Effectively with Legacy Code     by Michael C. Feathers
+    - Book offers start-to-finish strategies for working more effectively with large, untested legacy code bases.
+  
+
+  #FOR SOFTWARE ARCHITECTS
+  Domain Driven Designs: Tackling Complexity in the Heart of Software    by Eric Evans
+    - how you can make the design of your software match your mental model of the problem domain you are addressing. 
+
+
+  #FOR TECH MANAGERS
+  Mythical Man Month     by Frederick Brooks
+    - The classic book on the human elements of software engineering
+  Peopleware: Productive Projects and Teams    by Demarco and Lister
+    - Helps managers realize that the major issues in software developer are sociological not technological.
